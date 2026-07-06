@@ -1,0 +1,6 @@
+{
+  "name": "Ambulance Booking & Emergency Response System",
+  "description": "AI-enabled ambulance booking and emergency response tracking system for Patients, Drivers, Hospitals, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
